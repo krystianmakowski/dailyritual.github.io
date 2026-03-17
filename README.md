@@ -1,11 +1,4 @@
-<!DOCTYPE html>
 <html lang="pl">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daily Ritual</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
 <body class="bg-[#F8F6F2] text-[#4E3B31]">
 
   <!-- HERO -->
@@ -15,10 +8,6 @@
       Twoja codzienna przestrzeń do odkrywania mocy olejków eterycznych.
       Rytuały, wiedza i społeczność w jednej aplikacji.
     </p>
-    <div class="mt-6 flex justify-center gap-4">
-      <button class="bg-[#4E3B31] text-white px-6 py-3 rounded-xl">Pobierz aplikację</button>
-      <button class="border px-6 py-3 rounded-xl">Dowiedz się więcej</button>
-    </div>
   </section>
 
   <!-- FEATURES -->
@@ -84,9 +73,6 @@
   <section class="text-center py-16">
     <h2 class="text-2xl font-bold mb-4">Dołącz do Daily Ritual</h2>
     <p class="mb-6">Rozpocznij swoją przygodę z aromaterapią już dziś.</p>
-    <button class="bg-[#4E3B31] text-white px-8 py-3 rounded-xl">
-      Pobierz teraz
-    </button>
   </section>
 
   <!-- FOOTER -->
