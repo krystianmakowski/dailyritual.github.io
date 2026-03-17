@@ -1,5 +1,8 @@
 <html lang="pl">
-<body class="bg-[#F8F6F2] text-[#4E3B31]">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
 
   <!-- HERO -->
   <section class="text-center py-16 px-4">
