@@ -1,7 +1,9 @@
 <html lang="pl">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-[#F8F6F2] text-[#4E3B31]">
   <!-- HERO -->
