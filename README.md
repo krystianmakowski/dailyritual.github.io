@@ -3,7 +3,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
-
+<body class="bg-[#F8F6F2] text-[#4E3B31]">
   <!-- HERO -->
   <section class="text-center py-16 px-4">
     <h1 class="text-4xl font-bold mb-4">Daily Ritual 🌿</h1>
